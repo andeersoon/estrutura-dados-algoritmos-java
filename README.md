@@ -1,6 +1,8 @@
 # Estrutura de Dados e Algoritmos com Java
 Curso Estrutura de Dados com Java - [loiane.training](https://loiane.training/curso/estrutura-de-dados)
 
+---
+
 ### CLASSE VETOR
 
 - [x] [Vetores e Arrays: Introdução](https://github.com/andeersoon/estrutura-dados-algoritmos-java/commit/3547e6a8aa55ef618e945be0ce5ff1fd061857b3)
